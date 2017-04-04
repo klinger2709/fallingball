@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 64af205b1543249b6a90a4957dc73465
-timeCreated: 1491147080
+timeCreated: 1491335826
 licenseType: Free
 MonoImporter:
   serializedVersion: 2
@@ -9,6 +9,8 @@ MonoImporter:
   - end: {fileID: 1319494031361308, guid: d1f154a7304af47c69b4847de7f5f08d, type: 2}
   - platform: {fileID: 1040417182058012, guid: 76a58abb07a074a5c8324cb0c014c0b1, type: 2}
   - hole: {fileID: 1793594522923188, guid: 1e324ce05d5174c628c4349f0fd6edb0, type: 2}
+  - wallBlock: {fileID: 1170417432718262, guid: d78fa5e75dcb245908c9c0d527c71741,
+      type: 2}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
